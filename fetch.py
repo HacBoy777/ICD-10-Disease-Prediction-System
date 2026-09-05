@@ -3,7 +3,7 @@ import pandas as pd
 
 
 # MongoDB connection string
-MONGO_URI = "mongodb+srv://jainambsr_db_user:p6aphh0feh2jH5ae@cluster0.rnk5ywb.mongodb.net/"
+MONGO_URI = "mongodb+srv://[YOUR USER ID]:[PASS]@cluster0.rnk5ywb.mongodb.net/"
 
 
 # Database and collection names
